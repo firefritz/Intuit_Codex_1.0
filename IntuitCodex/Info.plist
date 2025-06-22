@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationAlwaysAndWhenInUse
+</key>
+	<string></string>
+	<key>UIBackgroundModes → bluetooth-central
+</key>
+	<string>Si vas a conectar con sensores como WT9011 en segundo plano
+</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription
+</key>
+	<string>Si planeas usar ubicación en segundo plano o mantener actualizaciones constantes
+</string>
+	<key>NSHealthUpdateUsageDescription
+</key>
+	<string>No modificamos tu salud, solo la consultamos.
+</string>
+	<key>NSBluetoothAlwaysUsageDescription
+</key>
+	<string>Conectamos sensores médicos externos por Bluetooth.
+</string>
+	<key>NSHealthShareUsageDescription
+</key>
+	<string>Leemos tus constantes vitales desde Apple Watch.
+</string>
+	<key>NSMicrophoneUsageDescription
+</key>
+	<string>Grabamos tu voz para evaluar disartria.
+</string>
+	<key>NSSpeechRecognitionUsageDescription
+NSSpeechRecognitionUsageDescription</key>
+	<string>Analizamos tu voz para detectar alteraciones.
+</string>
+	<key>NSLocationWhenInUseUsageDescription
+</key>
+	<string>Usamos tu localización para enviar ayuda médica.
+</string>
+	<key>NSMotionUsageDescription</key>
+	<string>&quot;Necesitamos acceder a los sensores de movimiento para evaluar signos neurológicos.&quot;</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>bluetooth-central</string>
+		<string>remote-notification</string>
+	</array>
+</dict>
+</plist>
